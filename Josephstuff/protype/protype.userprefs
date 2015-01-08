@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\lilly.cs">
+    <Files>
+      <File FileName="Assets\lilly.cs" Line="14" Column="1" />
+      <File FileName="Assets\lilly.cs" Line="48" Column="1" />
+      <File FileName="Assets\button2.cs" Line="1" Column="1" />
+      <File FileName="Assets\button.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
