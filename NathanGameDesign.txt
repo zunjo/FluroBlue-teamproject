@@ -2,14 +2,13 @@ Game Mechanics
 
 Vision for gameplay is a 3D platformer with jumping as the core mechanic. 
 Players will aim to reach a number of distinct points on a level to advance.
-Operates on a depleting lives system.
 
 
 Core Game Play
 
-Players will navigate a game world in which presents obstacles such as 
-vertical obstructions, harmful surfaces and floorless danger zones.
-Camera will be 3rd person styled.
+Players will navigate a game world via lilypads and jumping.
+Players must avoid hostile creatures and surrounding water and proceed to end zone.
+Camera is overhead 3rd person styled.
 
 
 Game Flow
@@ -17,24 +16,25 @@ Game Flow
 Player begins in a central location of a level and navigates towards
 some number of points, avoiding hazards and surmounting obstacles
 by jumping. Once all points are reached, level changes/resets?
-If all lives are lost game ends.
 
 
 Characters
 
-Just the player.
+The player, little mobile bugs for hazards?
+
 
 
 Game Play Elements
 
-Character can jump. Hostile floor sections can kill player?
-Objective points award score and at certain score progress to new level?
+Character can jump. Hostile floor sections can kill player.
+Objective points award score and at certain score progress to new level.
 
 
 Physics
 
-Normalized horizontal movement
-Addforce instantaneous jump with gravity as the returning force
+Forward thrust only.
+Cannot turn in the air.
+Addforce instantaneous jump with gravity as the returning force.
 
 
 GUI
