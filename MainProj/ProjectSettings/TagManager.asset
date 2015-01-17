@@ -3,6 +3,16 @@
 --- !u!78 &1
 TagManager:
   tags:
+  - ground
+  - death
+  - pad
+  - menu
+  - yes
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   Builtin Layer 0: Default
   Builtin Layer 1: TransparentFX
