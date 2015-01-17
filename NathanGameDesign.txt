@@ -7,7 +7,7 @@ Players will aim to reach a number of distinct points on a level to advance.
 Core Game Play
 
 Players will navigate a game world via lilypads and jumping.
-Players must avoid hostile creatures and surrounding water and proceed to end zone.
+Players must avoid hostile creatures and surrounding water and proceed to each navigation point.
 Camera is overhead 3rd person styled.
 
 
@@ -15,7 +15,7 @@ Game Flow
 
 Player begins in a central location of a level and navigates towards
 some number of points, avoiding hazards and surmounting obstacles
-by jumping. Once all points are reached, level changes/resets?
+by jumping. Once all points are reached, level changes.
 
 
 Characters
@@ -26,7 +26,7 @@ The player, little mobile bugs for hazards?
 
 Game Play Elements
 
-Character can jump. Hostile floor sections can kill player.
+Character can jump. Hostile floor sections and enemies can kill player.
 Objective points award score and at certain score progress to new level.
 
 
