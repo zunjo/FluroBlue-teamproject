@@ -9,6 +9,7 @@ public class Move : MonoBehaviour {
 	public float mspeed = 15;
 	public float tspeed = 150;
 
+
 	void OnCollisionEnter(Collision coll)
 	{
 		if (coll.transform.tag == "ground") 
@@ -31,6 +32,7 @@ public class Move : MonoBehaviour {
 		{
 			rigidbody.velocity.Set (0, 0, 0);
 			jumping = true;
+
 		} 
 
 		if (jumping) 
