@@ -7,25 +7,13 @@ Direct3D:
     VRAM:     1989 MB (via DXGI)
     Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=0 SlowINTZ=0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\No mercy for\Desktop\CombinedProj\CombinedTest_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\No mercy for\Desktop\CombinedProj\CombinedTest_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\No mercy for\Desktop\CombinedProj\CombinedTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\No mercy for\Desktop\CombinedProj\CombinedTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\No mercy for\Desktop\CombinedProj\CombinedTest_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\No mercy for\Desktop\CombinedProj\CombinedTest_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.169 seconds
+Platform assembly: C:\Users\No mercy for\Desktop\NathanTestFolder\trunk\CombinedProj\CombinedTest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\No mercy for\Desktop\NathanTestFolder\trunk\CombinedProj\CombinedTest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\No mercy for\Desktop\NathanTestFolder\trunk\CombinedProj\CombinedTest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\No mercy for\Desktop\NathanTestFolder\trunk\CombinedProj\CombinedTest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\No mercy for\Desktop\NathanTestFolder\trunk\CombinedProj\CombinedTest_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\No mercy for\Desktop\NathanTestFolder\trunk\CombinedProj\CombinedTest_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+- Completed reload, in  0.085 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
-UnloadTime: 8.033422 ms
-Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 8232.
-Total: 1.525333 ms (FindLiveObjects: 0.637511 ms CreateObjectMapping: 0.164755 ms MarkObjects: 0.128577 ms  DeleteObjects: 0.099244 ms)
-
-UnloadTime: 9.489823 ms
-Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
-
-Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 8367.
-Total: 1.457866 ms (FindLiveObjects: 0.514311 ms CreateObjectMapping: 0.088488 ms MarkObjects: 0.131022 ms  DeleteObjects: 0.242488 ms)
-
